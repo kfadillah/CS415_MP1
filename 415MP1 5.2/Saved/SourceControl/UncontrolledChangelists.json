@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HP_Full.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HP_Empty.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HP.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Potion.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/PotionA.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Cork.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Glass.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Cork.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Glass.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Shooting.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Cork.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/Glass.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/SM_Health.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Poiton.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/BP_HP.uasset",
+				"C:/Users/Fadil/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Score.uasset"
+			]
+		}
+	]
+}
